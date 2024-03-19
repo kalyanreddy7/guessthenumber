@@ -1,0 +1,17 @@
+body{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF68zrhfHsJtJtBOjOz-Z4UctI-I3kUSeM5A&usqp=CAU);
+}
+.main{
+    border:3px solid black;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    margin: auto;
+    margin-top: 15%;
+    background: rgb(207, 106, 10);
+    opacity: 0.9;
+}
+h2{
+    color: black;
+
+}
